@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Underwater World",
-  description: "Underwater World",
+  title: "Deep Sea",
+  description: "Deep Sea",
 };
 
 export default function RootLayout({
